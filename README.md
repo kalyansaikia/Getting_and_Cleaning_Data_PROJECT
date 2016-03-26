@@ -9,7 +9,7 @@ This project aims to demonstrate the collection and cleaning of a raw dataset to
 
 ## FILES available in the repository
 
- 1. **R source code** ("run_analysis.R") which is used to collect, clean and modify the collected data to create the final tidy dataset.
+ 1. **R source code** ("run_analysis.R") which is used to collect, clean and modify the collected data to create the final tidy dataset. The codes first download the raw datafiles, unzipp the folder, merge files, clean the merged file and finally modify the variables names to make the final dataset a tidy one.
  2. **A "README.md"** file providing introduction of the repository.
  3. **A Codebook** (codebook.md) on the dataset listing all the steps and description of the variables.
  
