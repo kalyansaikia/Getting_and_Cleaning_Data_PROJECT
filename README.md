@@ -12,4 +12,4 @@ This project aims to demonstrate the collection and cleaning of a raw dataset to
  1. **R source code** ("run_analysis.R") which is used to collect, clean and modify the collected data to create the final tidy dataset.
  2. **A "README.md"** file providing introduction of the repository.
  3. **A Codebook** (codebook.md) on the dataset listing all the steps and description of the variables.
- 4. **An output of tiny dataset** file "tinydata.txt"
+ 
